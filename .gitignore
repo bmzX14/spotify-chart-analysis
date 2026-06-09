@@ -1,0 +1,11 @@
+
+data/raw/
+results/*.csv
+!results/*.png
+__pycache__/
+.env
+kaggle.json
+~/.kaggle/
+
+
+
